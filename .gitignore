@@ -25,3 +25,9 @@ sysinfo.txt
 /UnityVS.tolua.CSharp.csproj
 /UnityVS.tolua.CSharp.Editor.csproj
 /UnityVS.tolua.sln
+.vs/tolua/v15/Server/sqlite3/db.lock
+.vs/tolua/v15/Server/sqlite3/storage.ide
+.vs/tolua/v15/Server/sqlite3/storage.ide-shm
+.vs/tolua/v15/Server/sqlite3/storage.ide-wal
+Logs/Packages-Update.log
+Packages/manifest.json
